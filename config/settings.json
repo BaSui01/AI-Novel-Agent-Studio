@@ -1,0 +1,9 @@
+{
+  "theme": "dark",
+  "editor_font_size": 18,
+  "auto_save_interval_sec": 30,
+  "default_word_count_target": 2000,
+  "prompts_dir": "./prompts",
+  "enable_local_rag": true,
+  "gateway_port": 8080
+}

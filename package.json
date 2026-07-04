@@ -1,0 +1,12 @@
+{
+  "name": "ai-novel-agent-root",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter desktop dev",
+    "dev:tauri": "tauri dev",
+    "build:tauri": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.1.0"
+  }
+}
