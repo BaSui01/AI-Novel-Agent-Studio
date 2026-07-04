@@ -1,0 +1,32 @@
+{
+  "src-tauri/crates/gateway/src/client.rs": [
+    {
+      "id": "notebook-1783100457452_jhea49xmk",
+      "filePath": "src-tauri/crates/gateway/src/client.rs",
+      "note": "内建对 OpenAI/Anthropic/Gemini/Ollama 四种 Provider 的 SSE 流解析。",
+      "createdAt": "2026-07-04T01:40:57.452",
+      "updatedAt": "2026-07-04T01:40:57.452"
+    },
+    {
+      "id": "notebook-1783100457452_dd7u6czqh",
+      "filePath": "src-tauri/crates/gateway/src/client.rs",
+      "note": "自动进行 Provider 选择、Fallback 降级、CircuitBreaker 保护。",
+      "createdAt": "2026-07-04T01:40:57.452",
+      "updatedAt": "2026-07-04T01:40:57.452"
+    },
+    {
+      "id": "notebook-1783100457452_iigtpl39p",
+      "filePath": "src-tauri/crates/gateway/src/client.rs",
+      "note": "提供 chat_stream() 流式接口和 chat_complete() 非流式接口。",
+      "createdAt": "2026-07-04T01:40:57.452",
+      "updatedAt": "2026-07-04T01:40:57.452"
+    },
+    {
+      "id": "notebook-1783100457452_1bssza5i2",
+      "filePath": "src-tauri/crates/gateway/src/client.rs",
+      "note": "GatewayClient 是面向 Agent 的统一模型调用接口，从 handlers/chat.rs 中抽离核心逻辑。",
+      "createdAt": "2026-07-04T01:40:57.452",
+      "updatedAt": "2026-07-04T01:40:57.452"
+    }
+  ]
+}
